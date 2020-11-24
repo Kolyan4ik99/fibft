@@ -1,1 +1,1 @@
-# My library with standart function "C"
+# My library with standart function C
